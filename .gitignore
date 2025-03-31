@@ -23,4 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-./src/components/EditSongs.jsx
+/src/components/EditSongs.jsx
