@@ -171,42 +171,46 @@
   ],
   "song_list": [
     {
-      "id": "1",
       "title": "How Great Is Our God",
       "artist": "Chris Tomlin",
+      "original": "C#",
       "sequence": {
         "intro": [
-          1,
-          6,
-          4,
-          5,
-          1
+          "1",
+          "6",
+          "4",
+          "5",
+          "1"
         ],
         "verse": [
-          1,
-          6,
-          4,
-          5,
-          1
+          "1",
+          "6",
+          "4",
+          "5",
+          "1"
         ],
-        "prechorus": [],
-        "bridge": [
-          1,
-          6,
-          4,
-          5,
-          1
+        "prechorus": [
+          ""
         ],
         "chorus": [
-          1,
-          6,
-          4,
-          5,
-          1
+          "1",
+          "6",
+          "4",
+          "5",
+          "1"
         ],
-        "interlude": []
+        "bridge": [
+          "1",
+          "6",
+          "4",
+          "5",
+          "1"
+        ],
+        "interlude": [
+          ""
+        ]
       },
-      "original": "Bb"
+      "id": "1"
     },
     {
       "id": "fb1b",
@@ -233,59 +237,6 @@
         "bridge": [
           1,
           3,
-          5
-        ],
-        "interlude": [
-          null
-        ]
-      }
-    },
-    {
-      "id": "f2a5",
-      "title": "4165",
-      "artist": "4165",
-      "original": "A",
-      "sequence": {
-        "intro": [
-          4,
-          1,
-          6,
-          5
-        ],
-        "verse": [
-          4,
-          1,
-          6,
-          5,
-          0,
-          4,
-          1,
-          6,
-          5
-        ],
-        "prechorus": [
-          null
-        ],
-        "chorus": [
-          4,
-          1,
-          6,
-          5,
-          0,
-          4,
-          1,
-          6,
-          5
-        ],
-        "bridge": [
-          4,
-          1,
-          6,
-          5,
-          0,
-          4,
-          1,
-          6,
           5
         ],
         "interlude": [

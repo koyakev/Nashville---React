@@ -78,6 +78,7 @@ function Add() {
 				<input type="text" name="interlude" value={song.interlude} onChange={handleChange} placeholder="Interlude" />
 				<button type="submit">Add</button>
 			</form>
+			
 		</>
 	)
 }
